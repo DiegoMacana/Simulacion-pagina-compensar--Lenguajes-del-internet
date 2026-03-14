@@ -1,4 +1,7 @@
 # 🎓 Simulación Página Principal UCompensar
+## 📸 Vista previa del proyecto
+
+![Simulación página UCompensar](https://raw.githubusercontent.com/DiegoMacana/Simulacion-pagina-compensar--Lenguajes-del-internet/master/img/asdasdasd.png)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
